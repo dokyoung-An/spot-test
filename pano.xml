@@ -326,6 +326,9 @@
       <polyhotspot target="$fwd" description="" url="{node31}" id="Poly07" title="">
         <polystring>-86.11/-19.68|-79.33/-22.94|-78.76/-30.69|-77.12/-33.86|-106.74/-33.52|-99.14/-19.18</polystring>
       </polyhotspot>
+      <polyhotspot target="$fwd" description="" url="{node24}" id="Poly08" title="">
+        <polystring>-79.19/-16.4|-78.8/-23.35|-85.02/-19.86|-99.74/-19.14|-98.51/-11.75|-78.57/-12.55</polystring>
+      </polyhotspot>
       <hotspot skinid="ht_node" target="" pan="-120.89" description="" url="{node11}" tilt="-7.19" id="Point01" title="4복1"/>
     </hotspots>
     <media/>
